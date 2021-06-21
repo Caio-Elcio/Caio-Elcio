@@ -24,25 +24,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Elcio&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-
-<div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-</div>
-
-<p align="center">
-    <a href="https://github.com/Caio-Elcio">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Caio-Elcio">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="mailto:eloyduartecaio@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:eloyduartecaio@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/caio-elcio-733426204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHl9x65e5Rs6%2BcNhh9Sfcdg%3D%3D">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/caio-elcio-733426204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOa8gs2CqTOaxCJJZjGtaRQ%3D%3D">
-    </a>
-</p>
-
 <div align="center">
   <h3 align="center">Languages and tools :hammer_and_wrench:</h3>
 </div>
@@ -60,4 +41,22 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><br><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+
+<p align="center">
+    <a href="https://github.com/Caio-Elcio">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Caio-Elcio">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="mailto:eloyduartecaio@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:eloyduartecaio@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/caio-elcio-733426204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHl9x65e5Rs6%2BcNhh9Sfcdg%3D%3D">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/caio-elcio-733426204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOa8gs2CqTOaxCJJZjGtaRQ%3D%3D">
+    </a>
 </p>
