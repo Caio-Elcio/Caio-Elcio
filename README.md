@@ -19,6 +19,12 @@
   - Watch movies and series.
 - 💬 Feel free to get in touch.
 
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Caio-Elcio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Elcio&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
@@ -35,6 +41,25 @@
     <a href="https://www.linkedin.com/in/caio-elcio-733426204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHl9x65e5Rs6%2BcNhh9Sfcdg%3D%3D">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/eric-viezzer-5a3665202/">
     </a>
+</p>
+
+<div align="center">
+  <h3 align="center">Languages and tools :hammer_and_wrench:</h3>
+</div>
+
+<p align="center">    
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"><br><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <!--
 **Caio-Elcio/Caio-Elcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
