@@ -10,7 +10,7 @@
  </p>
  
  - <p>:handshake: I am Caio :brazil:</p>
-- <p>📍 From Diadema - São Paulo</p>
+- <p>📍 From Diadema - São Paul.o</p>
 - <p>🤵 I'm an intern and I've been working as a back-end developer since 2021.</p>
 - <p>🤵 back-end development intern at @StefaniniGroup.</p>
 - 👽 My hobbies are: 
