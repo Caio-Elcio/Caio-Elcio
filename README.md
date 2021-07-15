@@ -8,15 +8,15 @@
    ********************
  </p>
  
- - <p>:handshake: My name is Caio Elcio :brazil:</p>
-- <p>📍 From Diadema - São Paulo.</p>
+ - <p>:handshake: My name is Caio Elcio. :brazil:</p>
+- <p>🌎 From Diadema - São Paulo.</p>
 - <p>🤵 I'm an intern and I've been working as a back-end developer since 2021.</p>
 - <p>🤵 back-end development intern at Stefanini Group.</p>
 - 👽 My hobbies are: 
-  - Study new back-end and front-end languages.
-  - Listening to music while studying and working.
-  - Watch movies and series.
-- 💬 Feel free to get in touch.
+  - 💻 Study new back-end and front-end languages.
+  - 🎧 Listening to music while studying and working.
+  - 🎬 Watch movies and series.
+  - 💬 Feel free to get in touch.
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Caio-Elcio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
