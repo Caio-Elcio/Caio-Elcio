@@ -10,8 +10,8 @@
  
  - <p>:handshake: My name is Caio Elcio. :brazil:</p>
 - <p>🌎 From Diadema - São Paulo.</p>
-- <p>🤵 I'm an intern and I've been working as a back-end developer since 2021.</p>
-- <p>🤵 back-end development intern at Stefanini Group.</p>
+- <p>🤵 I'm an intern and I've been working as a back-end and front-end developer since 2021.</p>
+- <p>🤵 Back-end and front-end development intern at Stefanini Group.</p>
 - 👽 My hobbies are: 
   - 💻 Study new back-end and front-end languages.
   - 🎧 Listening to music while studying and working.
