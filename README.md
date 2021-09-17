@@ -42,6 +42,7 @@
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-FF0083.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
     <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans IDE-747900.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"> <br>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
