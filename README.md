@@ -27,7 +27,7 @@
 <hr>
 
 <div align="center">
-  <h3 align="center">:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h3>
+  <h3 align="center">:hammer_and_wrench: Languages and tools :hammer_and_wrench:</h3>
 </div>
 
 <p align="center">
