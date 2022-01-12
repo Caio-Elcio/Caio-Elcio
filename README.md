@@ -92,5 +92,3 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/caio-elcio-   733426204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOa8gs2CqTOaxCJJZjGtaRQ%3D%3D">
     </a>
 </p>
-
-  ![Snake animation](https://github.com/Caio-Elcio/Caio-Elcio/blob/output/github-contribution-grid-snake.svg)
