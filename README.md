@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Caio Elcio. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://academy.vcsis.com.br/wp-content/uploads/2014/10/post-perfeito.gif" width="500"/>
 <p align="center">
   😀 New Visitors 😀
    <br><br>
