@@ -1,4 +1,5 @@
 <h2> Hey there! I'm Caio Elcio. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/media/ad7632627df868ba4c04668d7c96266e.gif" width="500"/>
 <p align="center">
   😀 New Visitors 😀
    <br><br>
