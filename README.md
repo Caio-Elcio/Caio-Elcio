@@ -1,21 +1,20 @@
-<h2> Hey there! I'm Caio Elcio. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
+<h2>Olá devs, me chamo Caio Elcio.<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/media/ad7632627df868ba4c04668d7c96266e.gif" width="500"/>
 <p align="center">
-  😀 New Visitors 😀
+  😀 Visitas 😀
    <br><br>
    <img alingn="center" src="https://profile-counter.glitch.me/Caio-Elcio/count.svg"/>
  
    ********************
  </p>
  
- - <p>:handshake: My name is Caio Elcio. :brazil:</p>
-- <p>🌎 From São Paulo.</p>
-- <p>🤵 I'm an intern and I've been working as a back-end and front-end developer since 2021.</p>
-- <p>🤵 Back-end and front-end development intern at Stefanini Group.</p>
-- 👽 My hobbies are:
-  - 🎧 Listening to music while studying and working.
-  - 🎬 Watch movies and series.
-  - 💬 Feel free to get in touch.
+- <p>🌎 Sou de São Paulo.</p>
+- <p>🤵 Sou Analista Desenvolvedor JR, ingressei na área de T.I em 2020.</p>
+- <p>🤵 Trabalho na Stefanini Brasil.</p>
+- 👽 Meus hobbies são:
+  - 🎧 Ouvir música enquanto estudo e trabalho.
+  - 🎬 Assistir filmes e séries.
+  - 💬 Sinta-se a vontade para entrar em contato.
 
 <hr>
 
@@ -27,7 +26,7 @@
 <hr>
 
 <div align="center">
-  <h3 align="center">:hammer_and_wrench: Languages and tools :hammer_and_wrench:</h3>
+  <h3 align="center">:hammer_and_wrench: Linguagens e Ferramentas :hammer_and_wrench:</h3>
 </div>
 
 <p align="center">
@@ -74,7 +73,7 @@
 <hr>
 
 <div align="center">
-  <h3 align="center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />Connect with me<img align="center"       src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
+  <h3 align="center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />Conecte-se comigo<img          align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
 </div>
 
 <p align="center">
