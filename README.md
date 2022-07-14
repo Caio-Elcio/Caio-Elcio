@@ -14,8 +14,6 @@
 - 👽 Meus hobbies são:
   - 🎧 Ouvir música enquanto estudo e trabalho.
   - 🎬 Assistir filmes e séries.
-  - 💬 Sinta-se a vontade para entrar em contato.
-
 <hr>
 
 <div align="center">
