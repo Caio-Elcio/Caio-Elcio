@@ -10,7 +10,6 @@
  
 - <p>🌎 Sou de São Paulo.</p>
 - <p>🤵 Sou Analista Desenvolvedor JR, ingressei na área de T.I em 2020.</p>
-- <p>🤵 Trabalho na Stefanini Brasil.</p>
 - 👽 Meus hobbies são:
   - 🎧 Ouvir música enquanto estudo e trabalho.
   - 🎬 Assistir filmes e séries.
